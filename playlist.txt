@@ -19,6 +19,7 @@ https://github.com/dir107-7/octopoulpe/blob/Songs/orelsan/Orelsan%20-%20Quand%20
 https://github.com/dir107-7/octopoulpe/blob/Songs/orelsan/Orelsan%20-%20San.mp3?raw=true
 https://github.com/dir107-7/octopoulpe/blob/Songs/orelsan/Orelsan%20-%20Tout%20va%20bien.mp3?raw=true
 https://github.com/dir107-7/octopoulpe/blob/Songs/orelsan/Orelsan%20-%20Zone.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/orelsan/Casseurs%20Flowters%20-%20Si%20facile.mp3?raw=true
 
 
 
@@ -87,3 +88,65 @@ https://github.com/dir107-7/octopoulpe/blob/Songs/martin_solveig/Hello.mp3?raw=t
 https://github.com/dir107-7/octopoulpe/blob/Songs/martin_solveig/My%20Love.mp3?raw=true
 https://github.com/dir107-7/octopoulpe/blob/Songs/martin_solveig/Places.mp3?raw=true
 
+
+#####
+# Clean Bandit
+#####
+
+
+https://github.com/dir107-7/octopoulpe/blob/Songs/Clean%20Bandit/Come%20Over.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/Clean%20Bandit/Dust%20Clears.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/Clean%20Bandit/Extraordinary.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/Clean%20Bandit/Heart%20on%20Fire.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/Clean%20Bandit/Mozart's%20House.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/Clean%20Bandit/Nightingale.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/Clean%20Bandit/Rather%20Be.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/Clean%20Bandit/Real%20Love.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/Clean%20Bandit/Rockabye.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/Clean%20Bandit/Stronger.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/Clean%20Bandit/Symphony.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/Clean%20Bandit/Tears.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/Clean%20Bandit/Telephone%20Banking.mp3?raw=true
+
+
+#####
+# Avicii
+#####
+
+
+https://github.com/dir107-7/octopoulpe/blob/Songs/avicii/Hey%20Brother.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/avicii/Levels.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/avicii/The%20Days.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/avicii/Waiting%20For%20Love.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/avicii/Wake%20Me%20Up.mp3?raw=true
+
+
+#####
+# Chainsmokers
+#####
+
+
+https://github.com/dir107-7/octopoulpe/blob/Songs/chainsmokers/All%20We%20Know.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/chainsmokers/Break%20Up%20Every%20Night.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/chainsmokers/Don't%20Say.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/chainsmokers/Honest.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/chainsmokers/Last%20Day%20Alive.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/chainsmokers/My%20Type.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/chainsmokers/Paris.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/chainsmokers/Setting%20Fires.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/chainsmokers/Something%20Just%20Like%20This.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/chainsmokers/The%20One.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/chainsmokers/Wake%20Up%20Alone.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/chainsmokers/Young.mp3?raw=true
+
+
+#####
+# Imagine Dragon
+#####
+
+
+https://github.com/dir107-7/octopoulpe/blob/Songs/imagine_dragon/Demons.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/imagine_dragon/I%20Bet%20My%20Life.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/imagine_dragon/Its%20Time.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/imagine_dragon/On%20Top%20Of%20The%20World.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/imagine_dragon/Radioactive.mp3?raw=true
