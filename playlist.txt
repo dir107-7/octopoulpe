@@ -150,3 +150,44 @@ https://github.com/dir107-7/octopoulpe/blob/Songs/imagine_dragon/I%20Bet%20My%20
 https://github.com/dir107-7/octopoulpe/blob/Songs/imagine_dragon/Its%20Time.mp3?raw=true
 https://github.com/dir107-7/octopoulpe/blob/Songs/imagine_dragon/On%20Top%20Of%20The%20World.mp3?raw=true
 https://github.com/dir107-7/octopoulpe/blob/Songs/imagine_dragon/Radioactive.mp3?raw=true
+
+
+#####
+# Neckfeu
+#####
+
+
+https://github.com/dir107-7/octopoulpe/blob/Songs/Neckfeu/Nekfeu%20-%20Nique%20les%20clones.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/Neckfeu/Nekfeu%20-%20On%20Verra.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/Neckfeu/Nekfeu%20-%20Plume.mp3?raw=true
+
+
+#####
+# Shawn Mendes
+#####
+
+
+https://github.com/dir107-7/octopoulpe/blob/Songs/shawn_mendes/Aftertaste.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/shawn_mendes/I%20Know%20What%20You%20Did%20Last%20Summer.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/shawn_mendes/In%20My%20Blood.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/shawn_mendes/Mercy.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/shawn_mendes/Never%20Be%20Alone.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/shawn_mendes/Something%20Big.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/shawn_mendes/Stitches.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/shawn_mendes/There's%20nothing%20holding%20me%20back.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/shawn_mendes/Treat%20You%20Better.mp3?raw=true
+
+
+#####
+# Bruno Mars
+#####
+
+https://github.com/dir107-7/octopoulpe/blob/Songs/bruno_mars/Bruno%20Mars.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/bruno_mars/Locked%20Out%20Of%20Heaven.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/bruno_mars/That's%20What%20I%20Like.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/bruno_mars/The%20Lazy%20Song.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/bruno_mars/Treasure.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/bruno_mars/grenade.mp3?raw=true
+
+
+#####
