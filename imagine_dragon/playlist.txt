@@ -1,0 +1,14 @@
+# line who start with # are ignored
+
+
+#####
+# Imagine Dragon
+#####
+
+
+https://github.com/dir107-7/octopoulpe/blob/Songs/imagine_dragon/Demons.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/imagine_dragon/I%20Bet%20My%20Life.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/imagine_dragon/Its%20Time.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/imagine_dragon/On%20Top%20Of%20The%20World.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/imagine_dragon/Radioactive.mp3?raw=true
+

@@ -1,0 +1,12 @@
+# line who start with # are ignored
+
+
+#####
+# Louane
+#####
+
+
+https://github.com/dir107-7/octopoulpe/blob/Songs/louane/Avenir.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/louane/Maman.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/louane/Si%20t'%C3%A9tais%20la.mp3?raw=true
+

@@ -1,0 +1,22 @@
+# line who start with # are ignored
+
+
+#####
+# Clean Bandit
+#####
+
+
+https://github.com/dir107-7/octopoulpe/blob/Songs/Clean%20Bandit/Come%20Over.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/Clean%20Bandit/Dust%20Clears.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/Clean%20Bandit/Extraordinary.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/Clean%20Bandit/Heart%20on%20Fire.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/Clean%20Bandit/Mozart's%20House.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/Clean%20Bandit/Nightingale.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/Clean%20Bandit/Rather%20Be.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/Clean%20Bandit/Real%20Love.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/Clean%20Bandit/Rockabye.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/Clean%20Bandit/Stronger.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/Clean%20Bandit/Symphony.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/Clean%20Bandit/Tears.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/Clean%20Bandit/Telephone%20Banking.mp3?raw=true
+

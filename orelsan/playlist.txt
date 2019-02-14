@@ -1,0 +1,24 @@
+# line who start with # are ignored
+
+#####
+# Orelsan
+#####
+
+
+https://github.com/dir107-7/octopoulpe/blob/Songs/orelsan/Casseurs%20Flowters%20-%20Inacheves.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/orelsan/Orelsan%20-%20Basique.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/orelsan/Orelsan%20-%20Bonne%20meuf.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/orelsan/Orelsan%20-%20Christophe.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/orelsan/Orelsan%20-%20Dans%20ma%20ville%20on%20traine.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/orelsan/Orelsan%20-%20Defaite%20de%20famille.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/orelsan/Orelsan%20-%20La%20fete%20est%20finie.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/orelsan/Orelsan%20-%20La%20lumiere.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/orelsan/Orelsan%20-%20La%20pluie.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/orelsan/Orelsan%20-%20Notes%20pour%20trop%20tard.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/orelsan/Orelsan%20-%20Paradis.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/orelsan/Orelsan%20-%20Quand%20est-ce%20que%20ca%20s'arrete.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/orelsan/Orelsan%20-%20San.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/orelsan/Orelsan%20-%20Tout%20va%20bien.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/orelsan/Orelsan%20-%20Zone.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/orelsan/Casseurs%20Flowters%20-%20Si%20facile.mp3?raw=true
+

@@ -1,0 +1,18 @@
+# line who start with # are ignored
+
+
+#####
+# Shawn Mendes
+#####
+
+
+https://github.com/dir107-7/octopoulpe/blob/Songs/shawn_mendes/Aftertaste.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/shawn_mendes/I%20Know%20What%20You%20Did%20Last%20Summer.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/shawn_mendes/In%20My%20Blood.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/shawn_mendes/Mercy.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/shawn_mendes/Never%20Be%20Alone.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/shawn_mendes/Something%20Big.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/shawn_mendes/Stitches.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/shawn_mendes/There's%20nothing%20holding%20me%20back.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/shawn_mendes/Treat%20You%20Better.mp3?raw=true
+

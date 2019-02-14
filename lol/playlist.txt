@@ -1,0 +1,16 @@
+# line who start with # are ignored
+
+
+#####
+# LOL
+#####
+
+https://github.com/dir107-7/octopoulpe/blob/Songs/lol/Awaken.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/lol/Burning%20Bright.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/lol/Get%20Jinxed.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/lol/Imagine%20Dragons_%20Warriors.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/lol/Legends%20Never%20Die.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/lol/POP_STARS.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/lol/RISE.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/lol/Zedd_%20Ignite.mp3?raw=true
+

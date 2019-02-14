@@ -1,0 +1,14 @@
+# line who start with # are ignored
+
+
+#####
+# Avicii
+#####
+
+
+https://github.com/dir107-7/octopoulpe/blob/Songs/avicii/Hey%20Brother.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/avicii/Levels.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/avicii/The%20Days.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/avicii/Waiting%20For%20Love.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/avicii/Wake%20Me%20Up.mp3?raw=true
+

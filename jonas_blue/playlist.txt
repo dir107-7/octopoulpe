@@ -1,0 +1,17 @@
+# line who start with # are ignored
+
+
+#####
+# Jonas Blue
+#####
+
+https://github.com/dir107-7/octopoulpe/blob/Songs/jonas_blue/Jonas%20Blue%20-%20By%20Your%20Side.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/jonas_blue/Jonas%20Blue%20-%20Fast%20Car.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/jonas_blue/Jonas%20Blue%20-%20Keeping%20Your%20Head%20Up.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/jonas_blue/Jonas%20Blue%20-%20Mama.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/jonas_blue/Jonas%20Blue%20-%20Old%20Friends.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/jonas_blue/Jonas%20Blue%20-%20Perfect%20Strangers.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/jonas_blue/Jonas%20Blue%20-%20Roll%20With%20Me.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/jonas_blue/Jonas%20Blue%20-%20Stay.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/jonas_blue/Jonas%20Blue%20-%20Still%20Falling%20For%20You.mp3?raw=true
+

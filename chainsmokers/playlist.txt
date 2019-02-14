@@ -1,0 +1,21 @@
+# line who start with # are ignored
+
+
+#####
+# Chainsmokers
+#####
+
+
+https://github.com/dir107-7/octopoulpe/blob/Songs/chainsmokers/All%20We%20Know.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/chainsmokers/Break%20Up%20Every%20Night.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/chainsmokers/Don't%20Say.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/chainsmokers/Honest.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/chainsmokers/Last%20Day%20Alive.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/chainsmokers/My%20Type.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/chainsmokers/Paris.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/chainsmokers/Setting%20Fires.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/chainsmokers/Something%20Just%20Like%20This.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/chainsmokers/The%20One.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/chainsmokers/Wake%20Up%20Alone.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/chainsmokers/Young.mp3?raw=true
+

@@ -1,0 +1,15 @@
+# line who start with # are ignored
+
+
+#####
+# Coldplay
+#####
+
+https://github.com/dir107-7/octopoulpe/blob/Songs/coldplay/A%20Sky%20Full%20of%20Stars.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/coldplay/Adventure%20Of%20A%20Lifetime.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/coldplay/Hymn%20for%20the%20Weekend.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/coldplay/Paradise.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/coldplay/The%20Scientist.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/coldplay/Viva%20La%20Vida.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/coldplay/Yellow.mp3?raw=true
+

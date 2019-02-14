@@ -1,0 +1,14 @@
+# line who start with # are ignored
+
+
+#####
+# Bruno Mars
+#####
+
+https://github.com/dir107-7/octopoulpe/blob/Songs/bruno_mars/Bruno%20Mars.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/bruno_mars/Locked%20Out%20Of%20Heaven.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/bruno_mars/That's%20What%20I%20Like.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/bruno_mars/The%20Lazy%20Song.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/bruno_mars/Treasure.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/bruno_mars/grenade.mp3?raw=true
+

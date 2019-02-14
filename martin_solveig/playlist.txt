@@ -1,0 +1,16 @@
+# line who start with # are ignored
+
+
+#####
+# Martin Solveig
+#####
+
+
+https://github.com/dir107-7/octopoulpe/blob/Songs/martin_solveig/All%20Stars.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/martin_solveig/Boys%20%26%20Girls.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/martin_solveig/Do%20It%20Right.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/martin_solveig/Everybody.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/martin_solveig/Hello.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/martin_solveig/My%20Love.mp3?raw=true
+https://github.com/dir107-7/octopoulpe/blob/Songs/martin_solveig/Places.mp3?raw=true
+
