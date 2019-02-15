@@ -94,7 +94,8 @@ function tinyxhr() {
     
     xhr.onreadystatechange = function() {
         if (xhr.readyState == 4) {
-            XMLraw = xhr.responseXML
+            let parser = new DOMParser();
+            XMLraw = parser.parseFromString(xhr.responseText,"text/xml");
 
             document.getElementById("Song_Name").innerHTML = XMLraw.documentElement.getElementsByTagName("title")[1].innerHTML
 
