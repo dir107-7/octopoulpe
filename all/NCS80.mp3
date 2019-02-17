@@ -1,0 +1,24 @@
+var fs = require("fs")
+
+/****************************************************
+ *     CREDITS :   @loulou123546                    *
+ ****************************************************/
+
+var text = "By @loulou123546\n\n\n"
+
+var ID = 0
+
+fs.readdir(".", (err, files) => {
+    if (err){ throw err; }
+    files.forEach(el => {
+        ID = ID + 1
+        fs.rename(el, ("NCS" + ID + ".mp3"), (err) => {
+            if (err) throw err;
+        })
+        text = text + "link/NCS" + ID + ".mp3?raw=true\n"
+    })
+        fs.writeFile("./resultats.txt", text, (err2) => {
+            if (err2){ throw err2; }
+            console.log("Fini !")
+        })
+})
