@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html>
+<title>One Live - 107.7</title>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<body>
+
+<!-- Navbar (sit on top) -->
+<div class="w3-top">
+  <div class="w3-bar w3-white w3-wide w3-padding w3-card">
+    <a href="https://dir107-7.github.io/octopoulpe/" class="w3-bar-item w3-button"><b>107.7</b> One Live</a>
+    <!-- Float links to the right. Hide them on small screens -->
+    <div class="w3-right w3-hide-small">
+      <a href="https://dir107-7.github.io/octopoulpe/direct/" class="w3-bar-item w3-button"><i class="fa fa-podcast"></i> Direct - <span id="Song_Name">Unknow Song</span></a>
+    </div>
+  </div>
+</div>
+
+<!-- Header -->
+<header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
+  <img class="w3-image" src="fond1.jpg" alt="Régie" width="1500" height="800">
+  <div class="w3-display-middle w3-margin-top w3-center">
+    <h1 class="w3-xxxlarge w3-text-white"><span class="w3-padding w3-black w3-opacity-min"><b>107.7</b></span> <span class="w3-hide-small w3-text-light-grey">One Live</span></h1>
+  </div>
+</header>
+
+<!-- Page content -->
+<div class="w3-content w3-padding" style="max-width:1564px">
+
+  <!-- Project Section -->
+  <div class="w3-container w3-padding-32" id="projects">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">Accès rapide</h3>
+  </div>
+
+  <div class="w3-row-padding">
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container" onclick="location.href='https://dir107-7.github.io/octopoulpe/musics/'">
+        <div class="w3-display-topleft w3-black w3-padding">Les musiques</div>
+        <img src="musique1.jpg" alt="Les Musiques" style="width:100%">
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container" onclick="location.href='https://dir107-7.github.io/octopoulpe/direct/'">
+        <div class="w3-display-topleft w3-black w3-padding">Ecouter en direct</div>
+        <img src="onair.jpg" alt="le Live" style="width:100%">
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container" onclick="location.href='https://dir107-7.github.io/octopoulpe/emissions/'">
+        <div class="w3-display-topleft w3-black w3-padding">Les émissions</div>
+        <img src="emission.jpg" alt="Les émissions" style="width:100%">
+      </div>
+    </div>
+    <div class="w3-col l3 m6 w3-margin-bottom">
+      <div class="w3-display-container" onclick="location.href='https://dir107-7.github.io/octopoulpe/DIR/'">
+        <div class="w3-display-topleft w3-black w3-padding">Qui sommes-nous ?</div>
+        <img src="dir.jpg" alt="La DIR" style="width:100%">
+      </div>
+    </div>
+  </div>
+
+  <!-- About Section -->
+  <div class="w3-container w3-padding-32" id="about">
+    <h3 class="w3-border-bottom w3-border-light-grey w3-padding-16">One Live : 107.7</h3>
+    <p>Bienvenue sur One Live, la radio officielle de One Life ! Ici vous pouvez écouter la radio en direct, ou bien ré-écouter les émissions en replay. Pour ceux qui veulent, vous pouvez même chercher le nom de cette musique que vous avez entendu l'autre jour.<br>
+        Vous pouvez écouter One Live sur le site, via VLC ou un autre lecteur de musique grâce au fichier téléchargable dans la rubrique "Ecouter en direct", mais aussi en jeu directement dans votre menu U !<br>
+        Ainsi, vous serez toujours au courant du moindre problème sur l'ensemble de la ville, des offres d'emploi et des événements qui arrive.
+    </p>
+  </div>
+<!-- End page content -->
+</div>
+
+
+<!-- Footer -->
+<footer class="w3-center w3-black w3-padding-16">
+  <p>Status en temps réel de la radio : <a href="http://loulou123546.fr:3712" title="loulou.fr" target="_blank" class="w3-hover-text-blue">http://loulou123546.fr:3712</a></p>
+</footer>
+
+<script>
+
+function tinyxhr() {
+    var xhr;
+    try{ xhr = new XMLHttpRequest(); }
+    catch(e){
+        try{ xhr = new ActiveXObject("Msxml2.XMLHTTP"); }catch (e){
+            if(console){
+                console.log("tinyxhr: XMLHttpRequest not supported");
+                return null;
+            }
+        }
+    }
+    
+    xhr.onreadystatechange = function() {
+        if (xhr.readyState == 4) {
+            let parser = new DOMParser();
+            XMLraw = parser.parseFromString(xhr.responseText,"text/xml");
+
+            document.getElementById("Song_Name").innerHTML = XMLraw.documentElement.getElementsByTagName("title")[1].innerHTML
+
+            //cb(xhr.status != 200?new Error("tinyxhr: server respnse status is "+xhr.status):false, xhr.responseText,xhr);
+        }
+        
+    }
+    xhr.open("GET", "https://cors.io/?http://loulou123546.fr:3712/dir107.mp3.xspf", true);
+    xhr.send();
+}
+tinyxhr()
+setInterval(() => {
+    tinyxhr()
+}, 15000)
+</script>
+
+</body>
+</html>
